@@ -1,0 +1,8 @@
+---- Bill ----
+
+Order 3 placed on Fri Jul 02 12:18:42 EEST 2021 by client Ana
+Pan-Fried Fishcakes ......44.0
+Pan-Fried Fishcakes ......44.0
+Pan-Fried Fishcakes ......44.0
+
+Total price: 132.0

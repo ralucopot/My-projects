@@ -1,0 +1,8 @@
+---- Bill ----
+
+Order 1 placed on Fri Jul 02 12:21:47 EEST 2021 by client Ana
+"""Blanketed"" Eggplant "......88.0
+"""Blanketed"" Eggplant "......88.0
+"""Blanketed"" Eggplant "......88.0
+
+Total price: 264.0

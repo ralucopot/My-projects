@@ -1,0 +1,2 @@
+Products ordered more than 2 times : 
+"""Blanketed"" Eggplant ": 3.75 rating, 1386 calories, 105 proteins, 98 fats, 578 sodium, 88.0 price x3

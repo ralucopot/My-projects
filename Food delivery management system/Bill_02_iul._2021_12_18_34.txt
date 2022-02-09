@@ -1,0 +1,9 @@
+---- Bill ----
+
+Order 1 placed on Fri Jul 02 12:18:34 EEST 2021 by client Ana
+Oysters with Spicy Jícama Salad ......70.0
+Oysters with Spicy Jícama Salad ......70.0
+Oyster Stuffing with Shiitake Mushrooms and Leeks ......66.0
+Pad Thai ......41.0
+
+Total price: 247.0

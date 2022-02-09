@@ -1,0 +1,8 @@
+---- Bill ----
+
+Order 2 placed on Fri Jul 02 12:18:37 EEST 2021 by client Ana
+Pad Thai ......41.0
+Pad Thai ......41.0
+Pad Thai ......41.0
+
+Total price: 123.0

@@ -1,0 +1,10 @@
+Raluca 123 administrator
+a a administrator
+c c client
+e e employee
+Bogdan abc employee
+Mihnea sp client
+Andrei DECENT administrator
+Ana 1 client
+Maria qwe employee
+aa aa client

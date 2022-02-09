@@ -1,0 +1,7 @@
+---- Bill ----
+
+Order 6 placed on Thu Jul 01 14:45:51 EEST 2021 by client Mihnea
+"""Blanketed"" Eggplant "......88.0
+"""Paella"" Fried Rice "......31.0
+
+Total price: 119.0
